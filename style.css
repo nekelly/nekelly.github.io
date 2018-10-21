@@ -1,7 +1,11 @@
 #main-image {
-    width: 800px;
+    width: 100%;
 }
 
 .navbar {
 	background-color: #4179d3;
+}
+
+body {
+    background-color: #333;
 }
