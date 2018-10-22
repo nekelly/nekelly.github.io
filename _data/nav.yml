@@ -1,4 +1,4 @@
-- title: Category 1
+- title: Physics
   subfolderitems:
     - page: Example Page
       url: /example_page.html
@@ -6,7 +6,7 @@
       url: /thing2.html
     - page: Thing 3
       url: /thing3.html
-- title: Category 2
+- title: Biology
   subfolderitems:
     - page: Piece 1
       url: /piece1.html
@@ -14,7 +14,7 @@
       url: /piece2.html
     - page: Piece 3
       url: /piece3.html
-- title: Category 3
+- title: Philosophy
   subfolderitems:
     - page: Widget 1
       url: /widget1.html
