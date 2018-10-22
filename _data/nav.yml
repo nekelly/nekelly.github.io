@@ -1,10 +1,10 @@
 - title: Physics
   subfolderitems:
-    - page: Example Page
+    - page: The Big Bang
       url: /example_page.html
-    - page: Thing 2
+    - page: Fine Tuning
       url: /thing2.html
-    - page: Thing 3
+    - page: BGV Theorem
       url: /thing3.html
 - title: Biology
   subfolderitems:
