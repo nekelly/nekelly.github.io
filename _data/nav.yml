@@ -1,24 +1,26 @@
 - title: Physics
   subfolderitems:
     - page: The Big Bang
-      url: /example_page.html
+      url: /pages/big_bang.html
     - page: Fine Tuning
-      url: /thing2.html
+      url: /pages/fine_tuning.html
     - page: BGV Theorem
-      url: /thing3.html
-- title: Biology
-  subfolderitems:
-    - page: Piece 1
-      url: /piece1.html
-    - page: Piece 2
-      url: /piece2.html
-    - page: Piece 3
-      url: /piece3.html
+      url: /pages/bgv_theorem.html
+    - page: Multiverse etc
+      url: /pages/multiverse.html
 - title: Philosophy
   subfolderitems:
-    - page: Widget 1
-      url: /widget1.html
-    - page: Widget 2
-      url: /widget2.html
-    - page: Widget 3
-      url: /widget3.html
+    - page: The Moral Argument
+      url: /pages/moral_argument.html
+    - page: Kalam Cosmological Argument
+      url: /pages/kalam_arg.html
+    - page: Infinity
+      url: /pages/infinity.html
+- title: Biology
+  subfolderitems:
+    - page: Origin Of Life
+      url: /pages/origin_of_life.html
+    - page: Evolution
+      url: /pages/evolution.html
+    - page: DNA and Information
+      url: /pages/dna_information.html
