@@ -10,6 +10,8 @@
       url: /pages/multiverse.html
 - title: Philosophy
   subfolderitems:
+    - page: Faith and Reason
+      url: /pages/faith_and_reason.html
     - page: The Moral Argument
       url: /pages/moral_argument.html
     - page: Kalam Cosmological Argument
