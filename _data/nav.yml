@@ -12,6 +12,8 @@
   subfolderitems:
     - page: Faith and Reason
       url: /pages/faith_and_reason.html
+    - page: God
+      url: /pages/god.html
     - page: The Moral Argument
       url: /pages/moral_argument.html
     - page: Kalam Cosmological Argument
@@ -32,6 +34,8 @@
       url: /pages/christianity.html
     - page: Catcholicism
       url: /pages/catholicism.html
+    - page: The Bible
+      url: /pages/bible.html
     - page: Other Religions
       url: /pages/other_religions.html
 
