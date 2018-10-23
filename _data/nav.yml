@@ -24,3 +24,12 @@
       url: /pages/evolution.html
     - page: DNA and Information
       url: /pages/dna_information.html
+- title: Religion
+  subfolderitems:
+    - page: Christianity
+      url: /pages/christianity.html
+    - page: Catcholicism
+      url: /pages/catholicism.html
+    - page: Other Religions
+      url: /pages/other_religions.html
+
