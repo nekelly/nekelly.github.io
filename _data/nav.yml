@@ -20,6 +20,8 @@
       url: /pages/kalam_argument.html
     - page: Infinity
       url: /pages/infinity.html
+    - page: The Problem of Evil
+      url: /pages/evil.html
 - title: Biology
   subfolderitems:
     - page: Origin Of Life
