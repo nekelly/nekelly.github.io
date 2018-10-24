@@ -3,6 +3,7 @@ layout: default
 ---
 
 ### The Nature of God
+&nbsp;
 
 - God is omniscient
 - God is omnipotent

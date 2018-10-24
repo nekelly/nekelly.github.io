@@ -2,11 +2,10 @@
 layout: default
 ---
 
-### Christianity
+### Catholicism
 &nbsp;
 
-- Who is/was Jesus?
-- What did Jesus claim about himself?
-- Miracles
-- The Resurrection
+- Why Catholicism?
 - The Church
+- The Resurrection
+
