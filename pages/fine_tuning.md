@@ -2,7 +2,10 @@
 layout: default
 ---
 
-### Fine Tuning Of The "Constants" Of Nature
+### Fine Tuning Of The Constants Of Physics
+&nbsp;
+
+![](/images/tuning_fork.jpg)
 &nbsp;
 
 While the laws of physics determine how the various force of nature act on different particles, these
