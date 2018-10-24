@@ -28,6 +28,7 @@ layout: default
 - Introduction to St. Thomas Aquinas, Duffy
 
 ##### Science
+- The Creator And The Cosmos, Hugh Ross
 - The Trouble with Physics, Lee Smolin
 - Science: A History, John Gribbin
 - The Fabric Of The Cosmos, Brian Greene

@@ -2,10 +2,10 @@
   subfolderitems:
     - page: The Big Bang
       url: /pages/big_bang.html
-    - page: Fine Tuning
-      url: /pages/fine_tuning.html
     - page: BGV Theorem
       url: /pages/bgv_theorem.html
+    - page: Fine Tuning
+      url: /pages/fine_tuning.html
     - page: Multiverse etc
       url: /pages/multiverse.html
 - title: Philosophy

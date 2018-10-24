@@ -25,3 +25,5 @@ layout: default
   - [Peter Kreeft's conversion story](https://www.youtube.com/watch?v=VO2NGGmWBQo)
   - [Scott Hahn conversion story](https://www.youtube.com/watch?v=XilzGLfgd7A)
   - [Good and Evil, Peter Kreeft](https://www.youtube.com/watch?v=xliyujhwhNM)
+  - [Hugh Ross, Why the universe is the way it is](https://www.youtube.com/watch?v=mzIVrcSyprU)
+  - [Hugh Ross, Improbable Planet](https://www.youtube.com/watch?v=jNPSZwxEFME)
