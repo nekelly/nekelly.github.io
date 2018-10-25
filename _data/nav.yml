@@ -1,45 +1,57 @@
-- title: Physics
-  subfolderitems:
-    - page: The Big Bang
-      url: /pages/big_bang.html
-    - page: BGV Theorem
-      url: /pages/bgv_theorem.html
-    - page: Fine Tuning
-      url: /pages/fine_tuning.html
-    - page: Multiverse etc
-      url: /pages/multiverse.html
-- title: Philosophy
-  subfolderitems:
-    - page: Faith and Reason
-      url: /pages/faith_and_reason.html
-    - page: God
-      url: /pages/god.html
-    - page: The Moral Argument
-      url: /pages/moral_argument.html
-    - page: Kalam Cosmological Argument
-      url: /pages/kalam_argument.html
-    - page: Infinity
-      url: /pages/infinity.html
-    - page: The Problem of Evil
-      url: /pages/evil.html
-    - page: Atheism
-      url: /pages/atheism.html
-- title: Biology
-  subfolderitems:
-    - page: Origin Of Life
-      url: /pages/origin_of_life.html
-    - page: Evolution
-      url: /pages/evolution.html
-    - page: DNA and Information
-      url: /pages/dna_information.html
-- title: Religion
-  subfolderitems:
-    - page: Christianity
-      url: /pages/christianity.html
-    - page: Catcholicism
-      url: /pages/catholicism.html
-    - page: The Bible
-      url: /pages/bible.html
-    - page: Other Religions
-      url: /pages/other_religions.html
+groups:
+  - title: Physics
+    items:
+      - title: The Big Bang
+        link: /pages/big_bang.html
+      - title: BGV Theorem
+        link: /pages/bgv_theorem.html
+      - title: Fine Tuning
+        link: /pages/fine_tuning.html
+      - title: Multiverse etc
+        link: /pages/multiverse.html
+  - title: Philosophy
+    items:
+      - title: Faith and Reason
+        link: /pages/faith_and_reason.html
+      - title: God
+        link: /pages/god.html
+      - title: The Moral Argument
+        link: /pages/moral_argument.html
+      - title: Kalam Cosmological Argument
+        link: /pages/kalam_argument.html
+      - title: Infinity
+        link: /pages/infinity.html
+      - title: The Problem of Evil
+        link: /pages/evil.html
+      - title: Atheism
+        link: /pages/atheism.html
+  - title: Biology
+    items:
+      - title: Origin Of Life
+        link: /pages/origin_of_life.html
+      - title: Evolution
+        link: /pages/evolution.html
+      - title: DNA and Information
+        link: /pages/dna_information.html
+  - title: Religion
+    items:
+      - title: Christianity
+        link: /pages/christianity.html
+      - title: Catcholicism
+        link: /pages/catholicism.html
+      - title: The Bible
+        link: /pages/bible.html
+      - title: Other Religions
+        link: /pages/other_religions.html
 
+singles:
+  - title: About
+    link: /pages/about.html
+  - title: Bio
+    link: /pages/biography.html
+  - title: Contact
+    link: /pages/contact.html
+  - title: Links
+    link: /pages/links.html
+  - title: Books
+    link: /pages/books.html
