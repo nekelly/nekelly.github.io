@@ -1,9 +1,9 @@
 #main-image {
-    width: 100%;
+	width: 100%;
 }
 
 #page-image {
-    max-width: 600px;
+	max-width: 600px;
 }
 
 .navbar {
@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color: #111;
+	background-color: #111;
 }
 
 p, h1, h2, h3, h4, h5, li, hr {
@@ -24,4 +24,8 @@ pre {
 
 .nav-link {
 	color: #fff !important;
+}
+
+.active {
+	text-decoration: underline;
 }
