@@ -23,6 +23,7 @@ layout: default
 ##### Apologetics
 - On Guard, William Lane Craig
 - Reasonable Faith, William Lane Craig
+- I Don't Have Enough Faith To Be An Atheist, Norman Geisler and Frank Turek
 
 ##### Philosophy
 - Introduction to St. Thomas Aquinas, Duffy
