@@ -7,21 +7,22 @@ layout: default
 
 ##### Abiogenesis
 Abiogenesis, as distinct from evolution, is the study of how the first simple living things were assembled from simpler prebiotic
-molecules, such as peptides and sugars. Evolution comes after abiogenesis because you have to have something living in order for it
+molecules. Evolution comes after abiogenesis because you have to have something living in order for it
 to evolve. Evolution could be said to explain the <i>survival</i> of the fittest but not the <i>arrival</i> of the fittest.
+
 Initially it was assumed that life arose on earth through natural means. It was thought that some kind of primordial "soup"
 combined with UV rays, lightning, heat etc could explain how basic molecules assmembled into complex cells which at the molecular
-level are actually incredibly complex "factories". When Charles Darwin formulated his famous theory of evolution, it was thought that cells were merely "blobs" of organic matter, not
-the complex structures we know them to be since the invention of powerful microscopes. 
+level are actually incredibly complex "factories". When Charles Darwin formulated his famous theory of evolution, it was thought that cells were 
+merely "blobs" of organic matter, not the complex structures we know them to be since the invention of powerful microscopes. 
 
-Following on from the discovery of the structure of DNA, scientists discovered that the molecules that form the "ladder" between the double helices,
-form apparently random patterns. The molecules involved are adenine, cytosine, thymine, and guanine, (abbreviated as A,C,T,G). It was later disovered that
-the order of these molecules isn't random at all but in fact is a code or "blueprint" for building proteins in a cellular factory.
+Following on from the discovery of the structure of DNA by Crick and Watson, scientists discovered that the molecules that form the "ladder" between the 
+double helices, form apparently random patterns. The molecules involved are adenine, cytosine, thymine, and guanine, (abbreviated as A,C,T,G). It was 
+later disovered that the order of these molecules isn't random at all but in fact is a code or "blueprint" for building proteins in a cellular factory.
 
 Where the abiogenesis theory runs into difficulty is in the high <i>specificity</i> of the proteins i.e. their structure is highly unlikely to occur randomly.
 These proteins are very specific in the sense that if they don't have a precise specified molecular ordering and three-dimensional structure, then the 
 structure can perform no useful function. Let's take as an example a short protein (150 molecules) and keep in mind that hundreds of different protein 
-types are required to make a function cell. The factors involved in the specificity could be summarized as follows:
+types are required to make a functional cell. The factors involved in the specificity could be summarized as follows:
 
 1. The molecular chain is composed of amino acids
 2. The bonds between neighbouring molecules must be a peptide bond. Peptide and non-peptide bonds are equally likely so the probability so the probability
