@@ -38,13 +38,12 @@ The probability of the amino acids bonding in the correct sequence is 0.25^150 =
 
 
 
-
-##### Probability problem 
-(The massive improbability of proteins forming by chance, panspermia theory)
-
-##### The complexity of the cell
 ##### Irreducible complexity
 ##### The prebiotic materials problem
 ##### Problems with evolution 
-
 (micro vs macro evolution, Cambrian explosion, no smooth transitions found in fossil records)
+
+#### Links
+- [Probability of protein formation, YouTube](https://www.youtube.com/watch?v=W1_KEVaCyaA)
+- [DNA by design, Stephen Meyer](https://www.youtube.com/watch?v=16ZF-9ZjPAU)
+- [Signature In The Cell, Stephen Meyer](https://www.youtube.com/watch?v=eW6egHV6jAw)
