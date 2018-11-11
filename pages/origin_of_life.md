@@ -24,21 +24,34 @@ These proteins are very specific in the sense that if they don't have a precise 
 structure can perform no useful function. Let's take as an example a short protein (150 molecules) and keep in mind that hundreds of different protein 
 types are required to make a functional cell. The factors involved in the specificity could be summarized as follows:
 
-1. The molecular chain is composed of amino acids
-2. The bonds between neighbouring molecules must be a peptide bond. Peptide and non-peptide bonds are equally likely so the probability so the probability
+1. The molecular chain is composed of amino acids and there are two chains, one on each side of the helical ladder.
+2. The bonds between neighbouring molecules must be a peptide bond. Peptide and non-peptide bonds are equally likely so the probability
 is 0.5 for each bond. When you multiply 0.5 by itself 150 times, the probability becomes extremely small (7 x 10^-46)
 3. In addition to having peptide-only bonds, amnio acids are left-handed and right-handed. In the double helix, one side of the ladder must contain all
 left-handed acids and the other, all right-handed acids. Again the probability is 0.5 for each bond and the overall probablity is 7 * 10^-46.
-4. The next level of specificity is the sequence of A,C,T,G. If these don't occur, you end up with a protein that does nothing, it has no function. 
-The probability of the amino acids bonding in the correct sequence is 0.25^150 = 4 * 10^-91
+4. The next level of specificity is the sequence of A,C,T,G. If these don't occur in exactly the right sequence, you end up with a protein that does nothing, 
+it has no function. The probability of the amino acids bonding in the correct sequence is 0.25^150 = 4 * 10^-91
 5. The above specific conditions must occur on both sides of the double helix.
 6. Approximately 200 specific proteins types are required to build a functioning cell.
-7. Proteins are required to build DNA and DNA is required to build proteins so we have a chicken and egg situation.
-8. A cell is the minimum viable living organism e.g the single-cell amoeba. All the parts of the cell need to be in place or the cell cannot survive.
+
+
+In addition to the above problems, it's worth noting that proteins are required to build DNA and DNA is required to build proteins so we have a chicken and 
+egg situation. Also, the cell is the minimum viable living organism e.g the single-cell amoeba. All the parts of the cell need to be in place or the cell 
+cannot survive. It's a bit like a car engine that must have all the parts in place. You break one part and the whole thing fails to operate.
  
 For anyone who is familiar with the CAD/CAM process used in manufacturing, the design is done on a computer and the instructions are sent to a CNC 
 machine to which creates the component. The way DNA is used to build new proteins is a very similar process. The sequence of A,C,T,G pieces is exactly 
-like a computer program i.e. a set of instructions used to carry out the task of building new proteins.  
+like a computer program i.e. a set of instructions used to carry out the task of building new proteins. The important point here is that DNA contains "information"
+and information only comes from an intelligent agent, e.g. a human mind. The purpose of DNA is to carry information, it does not provide a mechanical function.
+However it is used to build functional mechanisms.
+
+The big question then for science is where does this information come from? Information cannot come from a random source. In fact random processes can only 
+destroy information. Since science operates on naturalistic basis, it is assumed that abiogenesis is a random, unguided process with no end-goal. Since DNA
+contains information, a random, unguided process cannot be responsible for the production of DNA and hence life itself.
+
+To imagine that there is a natural explantion for the origins of life is like thinking it's possible to repeatedly dump a box of scrabble letters on a table 
+and have them "randomly" arrange themselves into a Shakespearean play! Even if the same thing was repeated for billions of years, there wouldn't be enough 
+time because of the absolutely tiny probabilities involved.
 
 
 ##### Irreducible complexity
