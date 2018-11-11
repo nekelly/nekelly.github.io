@@ -35,15 +35,22 @@ The probability of the amino acids bonding in the correct sequence is 0.25^150 =
 7. Proteins are required to build DNA and DNA is required to build proteins so we have a chicken and egg situation.
 8. A cell is the minimum viable living organism e.g the single-cell amoeba. All the parts of the cell need to be in place or the cell cannot survive.
  
-
+For anyone who is familiar with the CAD/CAM process used in manufacturing, the design is done on a computer and the instructions are sent to a CNC 
+machine to which creates the component. The way DNA is used to build new proteins is a very similar process. The sequence of A,C,T,G pieces is exactly 
+like a computer program i.e. a set of instructions used to carry out the task of building new proteins.  
 
 
 ##### Irreducible complexity
+(TODO - some notes about how all parts of the mechanism need to be in place for the whole mechanism to function)
+
 ##### The prebiotic materials problem
+(Todo - Not all prebiotic molecules occur naturally)
 ##### Problems with evolution 
 (micro vs macro evolution, Cambrian explosion, no smooth transitions found in fossil records)
 
 #### Links
-- [Probability of protein formation, YouTube](https://www.youtube.com/watch?v=W1_KEVaCyaA)
+- [Probability of protein formation](https://www.youtube.com/watch?v=W1_KEVaCyaA)
 - [DNA by design, Stephen Meyer](https://www.youtube.com/watch?v=16ZF-9ZjPAU)
 - [Signature In The Cell, Stephen Meyer](https://www.youtube.com/watch?v=eW6egHV6jAw)
+- [The Failure of Darwin's Theory, Stephen Meyer](https://www.youtube.com/watch?v=pZyRgYZe6tM)
+- [The Case for Intelligent Design](https://www.youtube.com/watch?v=vl802lHAk5Y)
