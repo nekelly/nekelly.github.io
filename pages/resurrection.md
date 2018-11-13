@@ -5,6 +5,8 @@ layout: default
 ### The Resurrection Of Jesus
 &nbsp;
 
+![](/images/resurrection1.jpg)
+
 The resurrection of Jesus is considered by Christians to be an historical event and is the cornerstone on which Christianity either stands or falls.
 St Paul put it like this in his letter to the Corinthians - <i>"And if Christ has not been raised, then your faith is useless and you are still guilty 
 of your sins."</i>
