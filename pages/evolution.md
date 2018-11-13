@@ -27,3 +27,6 @@ Why the significant gaps in the fossil record?
 
 ##### Irreducible complexity
 (TODO - some notes about how all parts of the mechanism need to be in place for the whole mechanism to function)
+
+##### Links
+- [Origins of the Universe, Life and Humanity (Hugh Ross)](https://www.youtube.com/watch?v=xAiqUX5csKw)
