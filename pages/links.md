@@ -14,6 +14,7 @@ layout: default
   - [Magis Center](https://www.magiscenter.com/) (Fr. Robert Spitzer, Philosophy and Theology)
   - [Belief Map](https://beliefmap.org/) (Quick and handy apologetics summary)
   - [Reasons For Jesus](http://reasonsforjesus.com/)
+  - [James Bishop](https://jamesbishopblog.com)
 - Scripture
   - [Daniel Wallace](https://danielbwallace.com/) (Daniel B. Wallace, Scripture/bible expert)
   - [Mike Licona](https://risenjesus.com) (Mike Licona, Resurrection/Scripture)
