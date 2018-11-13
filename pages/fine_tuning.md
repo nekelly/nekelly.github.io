@@ -40,9 +40,9 @@ ask him to pick out one dime. The odds that he will pick the red dime are one in
 
 ##### Links
 
-[Reasonable Faith on YouTube](https://www.youtube.com/watch?v=UpIiIaC4kRA)   
-[Biologos on YouTube](https://biologos.org/common-questions/gods-relationship-to-creation/fine-tuning)  
-[godandscience.org](http://www.godandscience.org/apologetics/designun.html)  
+- [Reasonable Faith on YouTube](https://www.youtube.com/watch?v=UpIiIaC4kRA)   
+- [Biologos on YouTube](https://biologos.org/common-questions/gods-relationship-to-creation/fine-tuning)  
+- [godandscience.org](http://www.godandscience.org/apologetics/designun.html)  
    
 &nbsp;
 
