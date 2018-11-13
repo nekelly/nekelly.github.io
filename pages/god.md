@@ -2,15 +2,22 @@
 layout: default
 ---
 
+### God
+&nbsp;
+
+![](/images/god.jpg)
+
+&nbsp;
+
 ##### The Nature of God
 
 What would you say if you were asked, what is God? How do you imagine God to be? A physical and ancient man with a long beard sitting on the
-clouds or maybe a throne? Unfortunately, this is the view of far too man people. The problem is that this type of god just doesn't stand up
-to any kind of rational scrutiny. Some examples:
+clouds or maybe a throne? Unfortunately, this is the view of far too many people. The problem is that this type of god just doesn't stand up
+to any kind of rational scrutiny. Some examples should illustrate this point:
 
 - God cannot be physical since theism claims that God created all physical matter and that God is in fact spiritual, not physical.
 If God were himself physical, what would give him the ability to create new matter? The creator must always be greater that the creation, just
-like a painter is greater that his painting. God must be non-physical. 
+like a painter is greater that his painting. God must therefore be non-physical.
  
 - God cannot be created. If you allow that God was created, this begs the question what created God's created and so on in an infinite regression
 of creators and created gods. It's totally illogical. But this unfortunately is the kind of question you hear from the likes of Richard Dawkins.
