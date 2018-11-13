@@ -20,4 +20,6 @@ they have to face the problem of a cosmic beginning"</i>
 This implication has been the subject of disputes, most notably in the debate between William Lane Craig and Lawrence Krauss. Krauss
 claimed Craig was misinterpreting the data in favour of creatism but this was refuted by WLC in the article linked below:
 
-[Reasonable Faith](https://www.reasonablefaith.org/writings/question-answer/honesty-transparency-full-disclosure-and-the-borde-guth-vilenkin-theorem/)
+##### Links
+
+- [Reasonable Faith](https://www.reasonablefaith.org/writings/question-answer/honesty-transparency-full-disclosure-and-the-borde-guth-vilenkin-theorem/)
