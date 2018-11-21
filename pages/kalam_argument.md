@@ -39,3 +39,4 @@ to come into existence. This "thing" is what theists refer to as God.
 ##### Links
 
 - [The Kalam Argument, William Lane Craig](https://www.youtube.com/watch?v=sLH15ZaM2y8)
+- [The Principle of Causality, Cold-case Christianity](http://coldcasechristianity.com/2018/how-the-principle-of-causality-points-to-the-existence-of-god/)
