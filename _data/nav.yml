@@ -47,6 +47,8 @@ groups:
         link: /pages/bible.html
       - title: Other Religions
         link: /pages/other_religions.html
+      - title: Hell
+        link: /pages/hell.html
 
 singles:
   - title: About
