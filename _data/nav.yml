@@ -53,6 +53,8 @@ groups:
         link: /pages/hell.html
 
 singles:
+  - title: Blog
+    link: /pages/blog.html
   - title: About
     link: /pages/about.html
   - title: Bio
