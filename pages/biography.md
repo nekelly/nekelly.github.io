@@ -5,56 +5,54 @@ layout: default
 ### A Short Biography
 &nbsp;
 
-I grew in Kilcullen, Co. Kildare in Ireland and was raised in a Catholic family where God, religion and spirituality was never discussed. 
-My mother often encouraged me to go to Mass, and sometimes I went, but a lot if the time I'd lie about going. Mass didn't mean a whole lot 
-to me because I didn't understand what it was about. I remember being taught in school that Jesus died for us on the cross but I never 
-really understood what that meant and I'm sure many people are still in that same boat.
+I grew in Kilcullen, Co. Kildare in Ireland and was raised in a Catholic family where God, religion and spirituality were rarely
+discussed. My mother often encouraged me to go to Mass, and sometimes I went, but a lot if the time I'd lie about going. Mass
+didn't mean a whole lot to me because I didn't understand what it was about. I remember being taught in catechism class in school
+that Jesus died for us on the cross but I never really understood what that meant and I'm sure many people are still in that same boat.
 
 But I do remember praying every night before bed, the Our Father, Hail Mary and Glory Be. Nobody made me do this, I just did it, it was 
 important to me. So, I always believed in God. I don't think I ever entertained the notion that life ends at death.
 
-I was always interested in the meaning of life and spiritual questions. Around the age of 15, I started taking an interest in philosophy 
-and I found this to be very helpful in teaching me not to take things at face value, but do dig a bit deeper and question previously held 
+I was always been interested in the meaning of life and spiritual questions. Around the age of 15, I started taking an interest in philosophy 
+and I found this to be very helpful in teaching me not to take things at face value, but to dig a bit deeper and question previously held 
 assumptions. Over the next 10 years or so, I started looking beyond my shaky Catholic faith to other forms of spirituality. I was on a 
 search for the truth about God and the meaning of life.
 
 I moved from one world-view to the next, but never finding anything that struck me to the core of my being, as being the absolute Truth. 
-I bought heaps of books that dealt with the likes of:
+I read heaps of books that dealt with the likes of:
 
-Taoism/Daoism,
-I-Ching
-New Age (chakras, kundalini, chi/prana, reincarnation etc)
-Astral Travel/meditation
-Macrobiotics (blandest diet ever!), Yin/Yang,
-Buddhism
-Yoga/Hinduism (I joined the Self-Realization Foundation for a number of years)
-Quakers
+Taoism/Daoism, I-Ching, New Age (chakras, kundalini, chi/prana, reincarnation etc)
+Astral Travel/meditation, Macrobiotics (blandest diet ever!), Yin/Yang, Quakers,
+Buddhism, Yoga/Hinduism (I joined the Self-Realization Foundation for a number of years)
 
-When I came across a book called Autobiography of Yogi, by Paramahansa Yogananda), I thought that I'd arrived at a truth that was hidden from 
-most "ordinary" people. This philosophy teaches reincarnation, that the life we are born into corresponds to the degree of our spiritual advancement. 
-We are born again and again until we learn the spiritual secrets required to break free of the cycle of rebirth in order to reach a state called 
-"samadhi", becoming one of the great Masters like Gandhi, Buddha, Jesus or Krishna. It's a philosophy that appeals very much to a person's pride. 
-It's also quite a selfish world-view because it's very much about self advancement. It also teaches that the world is an illusion (Maya) and that 
-suffering too is an illusion, which does do anything to encourage compassion for others.
+One day, a colleague in work introduced me to a book called Autobiography of Yogi, by Paramahansa Yogananda). After reading that,
+I thought I had discovered at a spiritual truth that had remained hidden from most "ordinary" people. This philosophy teaches
+reincarnation, that the life we are reborn into corresponds to the degree of our spiritual advancement. We are born again and again
+until we learn the spiritual secrets required to break free of the cycle of rebirth in order to reach a state called "Samadhi", becoming
+one of the great Masters like Gandhi, Buddha, Jesus or Krishna. It's a philosophy that appeals very much to a person's pride. 
+It's also quite a selfish world-view because it's very much about self advancement. It also teaches that the world is an illusion
+(Maya) and that suffering too is an illusion. Unfortunately, this doesn't do anything to encourage compassion for other people.
 
-On the 17th of September 1999, my mother Marie (God rest her), flew to Lourdes during a long battle with cancer. It was her dying wish to make it 
-to Lourdes and towards the end of her life, her faith grew very strong. Before she departed this world, she asked to brought to the famous grotto, 
-and by all accounts, she had a spiritual experience there which touched her very deeply. That very night, she passed away peacefully.
+On the 17th of September 1999, my mother Marie (God rest her), flew to Lourdes during a long battle with cancer. It was her dying wish
+to make a trip to Lourdes and towards the end of her life, her faith grew very strong. Before she departed this world, she asked to
+brought to the famous grotto, and by all accounts, she had a spiritual experience there which touched her very deeply. That very night,
+she passed away peacefully.
 
-At this time, I was very much caught up in eastern philosophies and I believed in reincarnation. I was also listening to a *lot* of heavy-metal and 
-I was getting into heavier and heavier stuff (Death, Slayer, Sepultura, Testament etc). I was also becoming more anti-catholic at the time. If I met 
-a priest on the street, I wouldn't have given him the time of day. I hadn't been to Mass or confession for years and I had no intention of doing so 
-again.
+At this time, I was very much caught up in eastern philosophies and I still believed in reincarnation. I was also listening to a *lot*
+of heavy-metal and I was getting into heavier and heavier stuff (Death, Slayer, Sepultura, Testament etc). I was also becoming more
+anti-catholic at the time. If I met a priest on the street, I wouldn't have given him the time of day. I hadn't been to Mass or
+confession for years and I had no intention of doing so again.
 
-In 2004, my brother asked me would I be interested in a pilgrimage to Lourdes with the Oblates from Inchicore in Dublin, and I said yes. I was still 
-very immersed in the yoga philosophy at the time and I remember trying to convince poor Fr. Supple that reincarnation was true using specious arguments
- based on biblical verses. But if reincarnation is true, then Jesus died an agonizing death on the cross for nothing! At this time, I held the view 
- that either the Church was unaware of these secret truths or it had deliberately suppressed them to keep people in a state of ignorance.
+In 2004, my brother asked me would I be interested in a pilgrimage to Lourdes with the Oblates from Inchicore in Dublin, and I said yes.
+I was still very immersed in the yoga philosophy at the time and I remember trying to convince poor Fr. Supple that reincarnation was
+true using specious arguments based on biblical verses. But if reincarnation is true, then Jesus died an agonizing death on the cross
+for nothing! At this time, I held the view that either the Church was unaware of these secret truths or it had deliberately suppressed
+them to keep people in a state of ignorance.
 
-As it happened, the Lourdes experience had a very profound effect on me and it was literally a life-changing experience. I honestly think it was a
- miracle what happened to me. First of all, I was very affected by the amazing sense of peace and good-will that is found in Lourdes. Every one of 
- the volunteers who went on that pilgrimage gave up their free time and hard-earned money to go help "the sick". The sense of joy was so palpable 
- and everyone there was there for the good of less fortunate people.
+As it happened, the Lourdes experience had a very profound effect on me and it was literally a life-changing experience. I honestly think
+it was a miracle what happened to me. First of all, I was very affected by the amazing sense of peace and good-will that is to be found
+in Lourdes. Every one of the volunteers who went on that pilgrimage gave up their free time and hard-earned money to go help "the sick".
+The sense of joy was so palpable and everyone there was there for the good of less fortunate people.
 
 The other aspect that impressed me deeply was the devotion and faith of the other pilgrims who went there. I'd never experienced this before and it 
 left a very strong impression on me. It made me wonder what it was about their faith that brought such devotion to Jesus and his mother, Mary.
