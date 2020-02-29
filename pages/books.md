@@ -27,6 +27,10 @@ layout: default
 
 ##### Philosophy
 - Introduction to St. Thomas Aquinas, Duffy
+- The Last Superstition, Dr. Edward Feser
+  This book is an excellent refutation of the ideas of so-called New Atheism and demonstrates how abandonment of
+  Aristotelian and Thomistic principles led to dangerous ideas e.g. that no absolute truth exists.
+- Scholastic Metaphysics, Dr. Edward Feser.
 
 ##### Science
 - The Creator And The Cosmos, Hugh Ross
