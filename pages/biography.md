@@ -75,7 +75,7 @@ First, I became painfully aware that I was a sinner and that I had offended God 
 sins I had committed in my adult life played out before me like a film. It was a harrowing and humbling experience. Before this, I had no
 real understanding of what sin meant. The philosophies I had been studying told me that sin didn't really exist, that it's an
 illusion or a man-made concept. But I now knew with absolute certainty that sin is something very real. This knowledge hit me so hard,
-that I burst into uncontrollable tears knowing how much I had offended God. To this day, I still find it emotional thinking it.
+that I burst into uncontrollable tears knowing how much I had offended God. To this day, I still find it emotional thinking about it.
 
 Second, because of my remorse over my sins, God let me know that I was totally forgive despite my multitude of sins. The parable of the
 Prodigal Son from the Gospel of Luke flashed into my mind and I *became* that son. I felt God's love and mercy for me in a most powerful
