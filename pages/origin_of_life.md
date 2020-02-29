@@ -59,3 +59,6 @@ time because of the absolutely tiny probabilities involved.
 - [Signature In The Cell, Stephen Meyer](https://www.youtube.com/watch?v=eW6egHV6jAw)
 - [The Failure of Darwin's Theory, Stephen Meyer](https://www.youtube.com/watch?v=pZyRgYZe6tM)
 - [The Case for Intelligent Design](https://www.youtube.com/watch?v=vl802lHAk5Y)
+- [Origin of Life, James Tour] (https://www.youtube.com/watch?v=r4sP1E1Jd_Y)
+- [Origin of Life (full lecture), James Tour] (https://www.youtube.com/watch?v=GxdISVWnWTY)
+
