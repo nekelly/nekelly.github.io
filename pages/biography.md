@@ -83,13 +83,14 @@ way. This brought on another flood of tears.
 
 Third, God made me understand that all truth comes from God through Jesus Christ. The Gospel of John tells us that Jesus is "the Way, the Truth,
 and the Life", not "a way", "a truth", etc. We are told that there are many paths to God but I now knew this to be false. I finally understood
-why Jesus died on the cross for us. His death was necessary to bridge that gap caused by sin. It was also made known to me that the Catholic
-faith is the one and only true faith since the Catholic Church was founded by Jesus Christ and is therefore a divine institution, despite the
-many failing of her members.
+why Jesus died on the cross for us. His death was necessary to bridge that gap between God and man caused by sin. It was also made known to me
+that the Catholic faith is the one and only true faith since the Catholic Church was founded by Jesus Christ and is therefore a divine
+institution, despite the many failings and crimes of her members.
 
 Fourth, I became painfully aware that all the philosophies and belief systems that I had been reading about were all false and were in fact made
 to deceive people into abandoning Jesus. In response to this, I decided to burn all my non-Christian spiritual books, rather than give them to
-a charity shop with the result that others would read and absorb the lies.
+a charity shop (with the result that others would read and absorb the lies). The spiritual battle is real and only the sacraments and prayer can
+keep us safe and strong.
 
 My decision to become a follower of Christ has had a massive impact on my life. It gives every aspect of my life meaning and purpose.
 I've learned that God's grace is as essential as the air we breathe. I believe that we were created out of love and that the way we
@@ -98,7 +99,7 @@ own selfish desires.
 
 I've learned that a life of prayer is absolute essential to keep us connected with God's grace. I know from experience that if I stop praying,
 I start to slip off the wagon and stray from the "narrow path". I've also had countless prayers answered in what seemed like hopeless situations,
-it's amazing. 
+it's just amazing. 
 
 Why am I writing all this? Basically I want to share the "Good News" with the world. We live in an age of deception. The bible warns
 about false messiahs and the fact that people would loose faith. We are constantly distracted from God by television, internet, gadgets,
