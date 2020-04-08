@@ -50,10 +50,10 @@ ask him to pick out one dime. The odds that he will pick the red dime are one in
 ##### Scientific Notation Refresher
 
 ```
-100 = "10 to the power of 3" = 10^2   
-1000 = "10 to the power of 3" = 10^3
-1000000 = "10 to the power of 6" = 10^6
-0.01 = "10 to the power of -2" = 10^-2
-0.001 = "10 to the power of -3" = 10^-3
-0.000001 = "10 to the power of -6" = 10^-6
+100       = "10 to the power of 2"  = 10^2   
+1000      = "10 to the power of 3"  = 10^3
+1,000,000 = "10 to the power of 6"  = 10^6
+0.01      = "10 to the power of -2" = 10^-2
+0.001     = "10 to the power of -3" = 10^-3
+0.000,001 = "10 to the power of -6" = 10^-6
 ```
