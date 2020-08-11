@@ -5,7 +5,7 @@ layout: default
 ### A Short Biography
 &nbsp;
 
-I grew in Co. Kildare in Ireland and was raised in a Catholic family where God, religion and spirituality were rarely
+I grew up in Co. Kildare in Ireland and was raised in a Catholic family where God, religion and spirituality were rarely
 discussed. My mother often encouraged me to go to Mass, and sometimes I went, but most of the time I'd lie about going. Mass
 didn't mean a whole lot to me because I didn't understand what it was about. I remember being taught in catechism class in school
 that Jesus died for us on the cross but I never really understood what that meant and I'm sure many people are still in that same boat.
